@@ -6,4 +6,5 @@ int fib(unsigned n) {
 
 int main() {
     printf("%d\n", fib(10));
+    printf("%d\n", fib(11));
 }
